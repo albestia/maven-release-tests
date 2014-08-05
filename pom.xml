@@ -3,7 +3,7 @@
 
 	<groupId>com.mango.shop</groupId>
 	<artifactId>com.mango.shop.shopconfig.shop</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>com.mango.shop.shopconfig.shop</name>
 
@@ -14,7 +14,7 @@
 	</parent>
 
 	<scm>
-		<developerConnection>scm:svn:https://github.com/albestia/maven-release-tests/tags/com.mango.shop.shopconfig.shop-1.0.0</developerConnection>
+		<developerConnection>scm:svn:https://github.com/albestia/maven-release-tests/branches/dev/</developerConnection>
 	</scm>
 
 	<build>
